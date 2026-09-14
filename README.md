@@ -12,7 +12,7 @@
 - **[ai-malware-classifier](https://github.com/Hesandu-Ruwanpathirana/ai-malware-classifier)** — ML model classifying files as malicious or benign using the EMBER dataset
 - **[cloud-misconfig-scanner](https://github.com/Hesandu-Ruwanpathirana/cloud-misconfig-scanner)** — Python tool scanning AWS accounts for common security misconfigurations
 - **[student-success-predictor](https://github.com/Hesandu-Ruwanpathirana/student-success-predictor)** — End-to-end ML project predicting academic performance risk from student data
-- **[malabe-tuktuk-spare-parts-depot](https://github.com/Hesandu-Ruwanpathirana/malabe-tuktuk-spare-parts-depot)** — JavaFX desktop app for managing inventory, dealers, and POS operations for a three-wheeler spare parts business, featuring search/sort algorithms, automatic discount logic, and audit logging
+- **[Tuk-Tuk-Spare-Parts-Inventory-Management-System](https://github.com/Hesandu-Ruwanpathirana/Tuk-Tuk-Spare-Parts-Inventory-Management-System)** — JavaFX desktop app for managing inventory, dealers, and POS operations for a three-wheeler spare parts business, featuring search/sort algorithms, automatic discount logic, and audit logging
 
 ---
 
@@ -26,4 +26,3 @@ Python · Machine Learning · Data Science · GitHub Actions · AWS · Java · J
 
 - LinkedIn: [Hesandu Ruwanpathirana](https://www.linkedin.com/in/hesandu-ruwanpathirana-00b0953a5)
 - Email: hesandu.20250029@iit.ac.lk
-
