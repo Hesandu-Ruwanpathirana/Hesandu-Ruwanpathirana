@@ -21,6 +21,12 @@
 
 Python · Machine Learning · Data Science · GitHub Actions · AWS · Java · JavaFX · Minecraft Modding · Fabric
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hesandu-Ruwanpathirana/Hesandu-Ruwanpathirana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hesandu-Ruwanpathirana/Hesandu-Ruwanpathirana/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Hesandu-Ruwanpathirana/Hesandu-Ruwanpathirana/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### 📫 Reach me
