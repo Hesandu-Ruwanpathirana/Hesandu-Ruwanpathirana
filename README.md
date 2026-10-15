@@ -21,7 +21,9 @@
 
 ### 🛠️ Tech I'm working with
 
-Python · Machine Learning · Data Science · GitHub Actions · AWS · Java · JavaFX · Minecraft Modding · Fabric
+<img src="https://skillicons.dev/icons?i=py,Python,Machine-Learning,Data-Science,GitHubActions,AWS,Java,JavaFX,Minecraft-Modding,Fabric" />
+
+Python · Machine Learning · Data Science · GitHubActions · AWS · Java · JavaFX · Minecraft Modding · Fabric
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hesandu-Ruwanpathirana/Hesandu-Ruwanpathirana/output/github-snake-dark.svg" />
