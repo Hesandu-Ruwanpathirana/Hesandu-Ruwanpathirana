@@ -20,8 +20,7 @@
 ---
 
 ### 🛠️ Tech I'm working with
-
-<img src="https://skillicons.dev/icons?i=py,Python,Machine-Learning,Data-Science,GitHubActions,AWS,Java,JavaFX,Minecraft-Modding,Fabric" />
+<img src="https://skillicons.dev/icons?i=python,java,javafx,githubactions,aws,git,numpy,pytorch,tensorflow,sklearn" /><br><img src="https://img.shields.io/badge/Machine_Learning-ML-blue?style=for-the-badge" /><img src="https://img.shields.io/badge/Data_Science-DS-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Minecraft_Modding-Fabric-green?style=for-the-badge" />
 
 Python · Machine Learning · Data Science · GitHubActions · AWS · Java · JavaFX · Minecraft Modding · Fabric
 
