@@ -1,7 +1,7 @@
 ### Hi, I'm Hesandu 👋
 
-🎓 AI & Data Science undergraduate at Robert Gordon University (studying via IIT Campus, Sri Lanka)
-🤖 Aspiring AI engineer, currently learning Python, machine learning, and data science
+🎓 AI & Data Science undergraduate at Robert Gordon University (studying via IIT Campus, Sri Lanka)  
+🤖 Aspiring AI engineer, currently learning Python, machine learning, and data science  
 🔐 Interested in the intersection of AI and cybersecurity
 
 ---
@@ -13,12 +13,13 @@
 - **[cloud-misconfig-scanner](https://github.com/Hesandu-Ruwanpathirana/cloud-misconfig-scanner)** — Python tool scanning AWS accounts for common security misconfigurations
 - **[student-success-predictor](https://github.com/Hesandu-Ruwanpathirana/student-success-predictor)** — End-to-end ML project predicting academic performance risk from student data
 - **[Tuk-Tuk-Spare-Parts-Inventory-Management-System](https://github.com/Hesandu-Ruwanpathirana/Tuk-Tuk-Spare-Parts-Inventory-Management-System)** — JavaFX desktop app for managing inventory, dealers, and POS operations for a three-wheeler spare parts business, featuring search/sort algorithms, automatic discount logic, and audit logging
+- **[VOIDREALM](https://github.com/Hesandu-Ruwanpathirana/VOIDREALM)** — Minecraft Fabric mod featuring Void Burst, a custom purple-themed area attack with cinematic particle animations, shockwaves, damage, and knockback.
 
 ---
 
 ### 🛠️ Tech I'm working with
 
-Python · Machine Learning · Data Science · GitHub Actions · AWS · Java · JavaFX
+Python · Machine Learning · Data Science · GitHub Actions · AWS · Java · JavaFX · Minecraft Modding · Fabric
 
 ---
 
