@@ -1,5 +1,5 @@
 ### Hi, I'm Hesandu 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hesandu Ruwanpathirana&fontSize=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hesandu-Ruwanpathirana&fontSize=40" width="100%" />
 
 
 🎓 AI & Data Science undergraduate at Robert Gordon University (studying via IIT Campus, Sri Lanka)  
