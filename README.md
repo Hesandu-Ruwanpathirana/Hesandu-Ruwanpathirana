@@ -21,7 +21,9 @@
 
 ### 🛠️ Tech I'm working with
 
-<img src="https://skillicons.dev/icons?i=python,java,javafx,githubactions,aws,git,numpy,pytorch,tensorflow,sklearn" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,githubactions,aws,git,pytorch,tensorflow,sklearn" />
+</p>
 
 Python · Machine Learning · Data Science · GitHubActions · AWS · Java · JavaFX · Minecraft Modding · Fabric
 
