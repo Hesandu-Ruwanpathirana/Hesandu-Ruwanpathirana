@@ -1,4 +1,6 @@
 ### Hi, I'm Hesandu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hesandu&fontSize=40" width="100%" />
+
 
 🎓 AI & Data Science undergraduate at Robert Gordon University (studying via IIT Campus, Sri Lanka)  
 🤖 Aspiring AI engineer, currently learning Python, machine learning, and data science  
